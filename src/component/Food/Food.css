@@ -1,0 +1,19 @@
+.food{
+    text-align: start;
+    margin: 20px;
+}
+.food img{
+    width: 300px;
+    
+}
+.food button{
+    background-color: gold;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 0px 10px;
+}
+.food p a{
+   
+    color: black;
+   
+}

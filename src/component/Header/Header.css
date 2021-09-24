@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: goldenrod;
+    text-align: start;
+    padding: 10px 80px;
+}
+nav a{
+    text-decoration: none;
+    color: #000;
+    margin-right: 20px;
+    
+}
